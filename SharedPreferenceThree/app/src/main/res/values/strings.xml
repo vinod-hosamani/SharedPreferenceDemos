@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferenceThree</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint">Enter some text here</string>
+    <string name="save">Save</string>
+    <string name="go_to_second_activity">Go to Second Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="saved">Saved in SharedPreferences. Go to second activity.</string>
+    <string name="info">After saving, on subsequent launch go to second activity without saving. You will still see the saved data.</string>
+</resources>
